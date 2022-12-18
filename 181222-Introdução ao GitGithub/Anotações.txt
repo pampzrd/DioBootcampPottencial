@@ -1,0 +1,2 @@
+Link para download do Git: https://git-scm.com/downloads
+Link para o repositório de aulas no github:https://github.com/pierrete/DioBootcampPottencial.git
